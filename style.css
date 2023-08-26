@@ -1,3 +1,4 @@
+
 .logo{
 background-color: #f94a3d;
 color: white;
@@ -145,7 +146,13 @@ color: #F94A3D;
 .foot{
     background-color: #fef4f4;
 }
-
+table{
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+td,th{
+    padding: 10px 40px;
+}
 /* .review_detail{
     border-left: 2px solid #F94A3D  ;
     height:6vw ;
