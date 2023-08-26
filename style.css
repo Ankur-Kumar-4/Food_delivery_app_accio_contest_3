@@ -1,0 +1,101 @@
+.logo{
+   margin-right: 40px; 
+
+}
+.nav_main,.first-page{
+    background-color: #fef2f1;
+}
+.search_bar>input{
+    border: none;
+    width: 100%;
+    border-radius: 12px;
+
+}
+.search_bar>svg{
+    margin-top: 13px;
+    width: 25px;
+
+
+}
+.sign_in{
+    border-radius: 10px;
+background-color:#F94A3D !important;
+color: white !important;
+}
+.hero_content{
+    padding-top: 10%;
+}
+.more_than{
+    background-color: #FDECEC;
+    border-radius: 50px;
+    padding: 5px;
+    margin-left:10%;
+    width: 20%;
+}
+.bg_svg{
+    background-color: white;
+    border-radius: 50px;
+    margin: 0px;
+}
+.hero_head,.para,.exp{
+    margin-left: 10%;
+}
+.exp{
+    padding-bottom:14% ;
+}
+.exp-btn{
+   background-color:#F94A3D !important;
+   border-radius: 16px !important;
+   color: white !important;
+}
+.speci_det{
+    width: 25%;
+    margin: 7%;
+}
+.speci_cards1{
+ width:18% ;
+ margin-inline: 2%;   
+  
+}
+.list_menu{
+
+width: 100%;
+margin-top: 4%;
+}
+.list_menu>ul{
+margin-top: 3%;
+list-style-type: none;
+width: 100%;
+}
+.list_menu>ul>li{
+    margin-inline:1%;
+
+}
+.higlight{
+border-bottom: 4px solid #F94A3D ;
+color: #F94A3D;
+}
+.line{
+    position: relative;
+    bottom: 15px;
+    height: 5px;
+    width: 100%;
+    background-color: #EAEAEA;
+}
+.speci_cards2{
+    width:20% ;
+      border: 1px solid grey;
+      margin-inline: 1.5%;     
+}
+.price_tag{
+    color:#69697B;
+}
+.price{
+   color: #F94A3D;
+}
+.locate{
+    margin-top: 5%;
+}
+.reviews{
+    
+}
