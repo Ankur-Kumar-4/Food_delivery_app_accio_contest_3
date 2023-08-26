@@ -49,9 +49,7 @@ color: white !important;
 .hero_head,.para,.exp{
     margin-left: 10%;
 }
-/* .exp{
-    padding-bottom:% ;
-} */
+
 .exp-btn{
    background-color:#F94A3D !important;
    border-radius: 16px !important;
@@ -221,7 +219,6 @@ td,th{
           rgb(255, 255, 255)
         ) 1 10%; 
       
-         
     }
   }
   
